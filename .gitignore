@@ -1,0 +1,16 @@
+.DS_Store
+__MACOSX/
+._*
+.idea/
+.vscode/
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+*.log
+PRELAUNCH_SEO_QA.md
+MIGRATION_QA.md
+COMPETITOR_GAP_REPORT.md
+.playwright-cli/
+output/playwright/

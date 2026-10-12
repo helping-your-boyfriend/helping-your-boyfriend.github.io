@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helping-your-boyfriend.github.io/sitemap.xml
